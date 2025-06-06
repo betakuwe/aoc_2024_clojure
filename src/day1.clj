@@ -1,4 +1,4 @@
-(ns day1.solution
+(ns day1
   (:require [clojure.string :as s]))
 
 (def file "input/day1.txt")
